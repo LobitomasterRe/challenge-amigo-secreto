@@ -49,7 +49,7 @@ Un proyecto diseñado para automatizar y personalizar el tradicional juego de "A
 
 ## 🎥 Video Demo
 
-[Mira el video en acción aquí](enlace-a-tu-video)
+[Mira el video en acción aqui](enlace-a-tu-video)
 
 ---
 
