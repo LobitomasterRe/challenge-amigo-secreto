@@ -80,10 +80,6 @@ document.getElementById("amigo").addEventListener("keydown", (event) => {
 
 //Limpiar el sorteo
 function resetSortearAmigo() {
-  var confettiSettings = { target: "my-canvas" };
-  var confetti = new ConfettiGenerator(confettiSettings);
-  confetti.render();
-
   listOfFriends = [];
   const resultado = document.getElementById("resultado");
   resultado.innerHTML = "";
