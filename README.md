@@ -51,7 +51,7 @@ Un proyecto diseñado para automatizar y personalizar el tradicional juego de "A
 
 [Mira el video aquí](assets/video.mp4)
 
----
+## ![Video de los resultados](assets/video.mp4)
 
 ## 👤 Autor
 
