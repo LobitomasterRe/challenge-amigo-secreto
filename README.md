@@ -37,13 +37,13 @@ Un proyecto diseñado para automatizar y personalizar el tradicional juego de "A
 ## 📸 Capturas de Pantalla
 
 1. **Página de Inicio**
-   ![Captura de pantalla de la página de inicio](ruta/a/tu/imagen.png)
+   ![Captura de pantalla de la página de inicio](assets/inicio.png)
 
 2. **Agregar Participantes**
-   ![Captura de pantalla del formulario](ruta/a/tu/imagen2.png)
+   ![Captura de pantalla del formulario](assets/agregando.png)
 
 3. **Resultados del Sorteo**
-   ![Captura de pantalla de los resultados](ruta/a/tu/imagen3.png)
+   ![Captura de pantalla de los resultados](assets/sorteo.png)
 
 ---
 
